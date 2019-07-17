@@ -10,7 +10,6 @@ import domain.Ucesce;
 import java.util.ArrayList;
 import kontroler.Kontroler;
 import forme.model.TabelaPlasman;
-
 /**
  *
  * @author Bojana
